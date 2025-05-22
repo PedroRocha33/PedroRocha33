@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <p align="center">
   🎓 Estudante do 3º ano do curso técnico em Informática no IFSul - Campus Charqueadas <br/>
-  💻 Apaixonado por desenvolvimento web, automações e soluções criativas <br/>
+  💻 focado em desenvolvimento web, automações e soluções criativas <br/>
   🚀 Em busca de desafios reais e crescimento profissional
 </p>
 
